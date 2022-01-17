@@ -88,7 +88,7 @@
 #### RowSelectView
 - 用于行按钮
 - 效果
-![img](View/RowView/RowSelectView.gif)
+![img](View/RowView/RowSelectView.jpg)
 
 ```swift
        //项目标签
@@ -126,7 +126,7 @@
 #### RowTextFieldView
 - 用于行文本框
 - 效果
-![img](View/RowView/RowTextFieldView.gif)
+![img](View/RowView/RowTextFieldView.jpg)
 
 ```swift
     //项目名称
@@ -158,7 +158,7 @@
 #### RowTimeEditView
 - 用于行文本框
 - 效果
-![img](View/RowView/RowTimeEditView.gif)
+![img](View/RowView/RowTimeEditView.jpg)
 
 ```swift
     //计划时间
