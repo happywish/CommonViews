@@ -39,14 +39,14 @@ var App_ProjectStatus = [SelectListItem(text: "预制", value: 0),
                      SelectListItem(text: "已归档", value: 50)]
 
 
-let AliyunOSS_Endpoint = "https://oss-cn-hangzhou.aliyuncs.com"
-//let AliyunOSS_AccessKeyId = "LTAI5tLd8qhhaNhKuB2wHS4x"
-//let AliyunOSS_AccessKeySecret = "H4THvqQ0Hj08MGxqXHTEDjzuqZk5gr"
-//let AliyunOSS_DefaultBucketName = "jkoav1"
-//let AliyunOSS_PreviewBaseUrl = "https://jkoav1.oss-cn-hangzhou.aliyuncs.com"
+let AliyunOSS_Endpoint = ""
+//let AliyunOSS_AccessKeyId = ""
+//let AliyunOSS_AccessKeySecret = ""
+//let AliyunOSS_DefaultBucketName = ""
+//let AliyunOSS_PreviewBaseUrl = ""
 
 
-let AliyunOSS_AccessKeyId = "LTAI5tDTojghLc68jwhSGTog"
-let AliyunOSS_AccessKeySecret = "z37XdQBr4YywYP5vWwEXDPIagkc9Co"
-let AliyunOSS_DefaultBucketName = "dosomething-001"
-let AliyunOSS_PreviewBaseUrl = "https://dosomething-001.oss-cn-hangzhou.aliyuncs.com"
+let AliyunOSS_AccessKeyId = ""
+let AliyunOSS_AccessKeySecret = ""
+let AliyunOSS_DefaultBucketName = ""
+let AliyunOSS_PreviewBaseUrl = ""
