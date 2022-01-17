@@ -86,7 +86,7 @@
 ```
 
 #### RowSelectView
-- 用于行按钮
+- 用于行选择框
 - 效果
 ![img](View/RowView/RowSelectView.jpg)
 
@@ -156,7 +156,7 @@
 
 
 #### RowTimeEditView
-- 用于行文本框
+- 用于行选择时间框
 - 效果
 ![img](View/RowView/RowTimeEditView.jpg)
 
