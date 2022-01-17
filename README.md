@@ -1,7 +1,7 @@
 ### ImageChooseView
 
 - 效果
-![img]("2022-01-17162312.gif")
+![img](2022-01-17162312.gif)
 
 - 用法
 ```swift
